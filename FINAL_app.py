@@ -14,7 +14,7 @@ SLIDE_FONT_SIZE = Pt(16)
 
 
 
-local_llm = r'D:\\Personal\\Experiments\\text_to_ppt\\llama-2-7b-chat.Q4_K_M.gguf'
+local_llm = r'path to your file\\llama-2-7b-chat.Q4_K_M.gguf'
 
 llm = AutoModelForCausalLM.from_pretrained(local_llm, model_type='llama')
 
