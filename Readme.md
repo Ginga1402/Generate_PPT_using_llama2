@@ -1,4 +1,4 @@
-#### Use llm to create powerpoint presentations.
+#### Use llm's to create powerpoint presentations.
 
 # AI PowerDeck: Your Dynamic Presentation Partner
 
