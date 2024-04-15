@@ -39,6 +39,17 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Usage
+The application uses a simple command-line interface. Enter your topic, and the application will generate a Power point presentation for you.
+
+## Contributing
+Contributions to this project are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
 
 
 
