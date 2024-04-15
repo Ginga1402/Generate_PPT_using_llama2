@@ -20,6 +20,8 @@ The following technologies and libraries were used in the development of this ch
 
 Model Used: [Llama 2](https://huggingface.co/TheBloke/Llama-2-7B-GGUF) is a family of pre-trained and fine-tuned large language models (LLMs) released by Meta AI in 2023. Released free of charge for research and commercial use, Llama 2 AI models are capable of a variety of natural language processing (NLP) tasks, from text generation to programming code.
 
+![image](https://github.com/Ginga1402/Generate_PPT_using_llama2/assets/130181481/11d585c7-afe7-4e8a-8495-95242f46b238)
+
 
 ## Getting Started
 
